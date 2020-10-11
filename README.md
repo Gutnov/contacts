@@ -12,5 +12,5 @@ npm run serve
 
 ### Данные для входа
 ```
-логин - admin@test.ru \n
+логин - admin@test.ru
 пароль - 123456
